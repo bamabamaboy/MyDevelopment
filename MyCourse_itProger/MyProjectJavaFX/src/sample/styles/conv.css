@@ -1,0 +1,14 @@
+.choicebox {
+     -fx-background-color: #343434;
+     -fx-text-fill: #fafafa;
+     -fx-border-color: #fafafa;
+     -fx-border-radius: 10;
+ }
+
+.label {
+    -fx-background-color: #343434;
+    -fx-text-fill: #fafafa;
+    -fx-border-color: #fafafa;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
